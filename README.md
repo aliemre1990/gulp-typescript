@@ -1,5 +1,5 @@
 # Install
-npm install aet-gulp-ts-sass
+npm install aet-library
 
 # Changes
 After version 2 there is some major changes:

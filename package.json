@@ -1,6 +1,6 @@
 {
   "name": "aet-library",
-  "version": "2.2.14",
+  "version": "2.2.15",
   "description": "Build library for building client side typescript and sass projects.",
   "main": "index.js",
   "scripts": {
