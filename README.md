@@ -333,9 +333,6 @@ A module file, may have containing folder's name or this name. 'vehicle_edit'-> 
 ## rootModuleFileName
 File name used in root module files.
 
-## validMarkupExtensions
-Extensions used in markup files. Defaults to ['.html'].
-
 ## contentExpression
 Expression used in layout modules for module content placemenet. Must be html unescaped expression. For example if your content expression is 'content' then you should place {{{content}}} on where you want your module content to be placed.
 
